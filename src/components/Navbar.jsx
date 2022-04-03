@@ -7,9 +7,9 @@ export const Navbar = () => {
       <h2 className='text-xl font-semibold'>Shortly</h2>
     </div>
         <div className='flex basis-6/12  justify-items-start font-medium text-slate-400'>
-          <h3 className='mr-8'>Features</h3>
-          <h3 className='mr-8'>Pricing</h3>
-          <h3 className='mr-8'>Resources</h3>
+          <h3 className='mr-8 cursor-pointer'>Features</h3>
+          <h3 className='mr-8 cursor-pointer'>Pricing</h3>
+          <h3 className='mr-8 cursor-pointer'>Resources</h3>
         </div>
 
         <div className='flex basis-3/12 justify-items-center'>
